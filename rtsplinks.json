@@ -1,0 +1,12 @@
+{
+    "rtsp://algocam1:algo1234@219.91.153.198:8001/stream1": {
+        "cam_name": "cam1",
+        "running_status": false,
+        "rtsp_id": 1
+    },
+    "rtsp://algocam3:algo1234@219.91.153.198:8003/stream2": {
+        "cam_name": "cam2",
+        "running_status": false,
+        "rtsp_id": 2
+    }
+}
